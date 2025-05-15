@@ -19,5 +19,5 @@ Każdy projekt zawiera:
  2. Wieloelektronowe widmo kropki kwantowej - metoda czasu urojonego, metoda Hartree-Focka
  3. Symulacje zależne od czasu dla kropek kwantowych - metoda Crancka-Nicolsona oraz Askara-Cakmaka
  4. Symulacje transportu elektronowego w układach 1D - metoda macierzy transferu, dioda RTD, kwantowy kontakt punktowy
- 5. Symulacje transportu elektronowego w układach 2D - relacje dyspersji
+ 5. Symulacje transportu elektronowego w układach 2D 
  6. Transport elektronów w polu magnetycznym 
