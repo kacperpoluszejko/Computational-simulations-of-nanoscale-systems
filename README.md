@@ -21,3 +21,4 @@ Każdy projekt zawiera:
  4. Symulacje transportu elektronowego w układach 1D - metoda macierzy transferu, dioda RTD, kwantowy kontakt punktowy
  5. Symulacje transportu elektronowego w układach 2D 
  6. Transport elektronów w polu magnetycznym, kwantowy efekt Halla
+ 7. Symulacje zależnego od spinu transportu elektronowego z uwzględnieniem oddziaływania spin-orbita
