@@ -2,7 +2,7 @@
 
 To repozytorium zawiera zestaw programów i analiz związanych z symulacjami układów nanoskopowych, realizowanych w ramach studiów magisterskich na kierunku **Fizyka Techniczna** (specjalizacja: **Fizyka Komputerowa**).
 Projekty dotyczą problemów z zakresu mechaniki kwantowej - wszystkie polecenia jak i rozwiązania zapisane są więc w formaliźmie mechaniki kwantowej, 
-a większość z nich polega na numerycznym rozwiązywaniu równania Schrödingera. Pierwsze 5 z nich napisane zostało w czystym Pythonie, natomiast w pozostałych przypadkach skorzystano z pakietu [KWANT](https://kwant-project.org/).
+a większość z nich polega na numerycznym rozwiązywaniu równania Schrödingera. Pierwsze 5 z nich napisane zostało w czystym Pythonie, natomiast w pozostałych przypadkach skorzystano z pakietu [KWANT](https://kwant-project.org/)
 
 Każdy projekt zawiera:
 - Szczegółową instrukcję do ćwiczenia wraz z literaturą uzupełniającą
