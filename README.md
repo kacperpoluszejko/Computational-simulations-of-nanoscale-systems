@@ -23,5 +23,7 @@ Każdy projekt zawiera:
  6. Transport elektronów w polu magnetycznym, kwantowy efekt Halla
  7. Symulacje zależnego od spinu transportu elektronowego z uwzględnieniem oddziaływania spin-orbita
  8. Symulacje transportu przez złącze metal/nadprzewodnik
- 9. 
+ 9. Symulacje układów topologicznych
+ 10. Transport w nanostrukturach opartych na grafenie
+
 
