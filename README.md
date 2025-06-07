@@ -5,7 +5,7 @@ Projekty dotyczą problemów z zakresu mechaniki kwantowej - wszystkie polecenia
 a większość z nich polega na numerycznym rozwiązywaniu równania Schrödingera. Pierwsze 5 z nich napisane zostało w czystym Pythonie, natomiast w pozostałych przypadkach skorzystano z pakietu [KWANT](https://kwant-project.org/)
 
 Każdy projekt zawiera:
-- Szczegółową instrukcję do ćwiczenia
+- Szczegółową instrukcję do ćwiczenia wraz z literaturą uzupełniającą
 - Kod źródłowy symulacji
 - Skrypty do generowania wykresów
 - Gotowe rysunki / wizualizacje
