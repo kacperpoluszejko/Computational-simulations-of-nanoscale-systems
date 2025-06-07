@@ -22,4 +22,6 @@ Każdy projekt zawiera:
  5. Symulacje transportu elektronowego w układach 2D 
  6. Transport elektronów w polu magnetycznym, kwantowy efekt Halla
  7. Symulacje zależnego od spinu transportu elektronowego z uwzględnieniem oddziaływania spin-orbita
+ 8. Symulacje transportu przez złącze metal/nadprzewodnik
+ 9. 
 
