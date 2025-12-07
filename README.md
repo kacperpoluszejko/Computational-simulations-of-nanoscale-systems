@@ -25,6 +25,6 @@ Każdy projekt zawiera:
  8. Symulacje transportu przez złącze metal/nadprzewodnik
  9. Symulacje układów topologicznych
  10. Transport w nanostrukturach opartych na grafenie
- 11. Oscylacje Klein'a w grafenie
+ 11. Oscylacje Klein'a w grafenie (dodatkowy projekt)
 
 
