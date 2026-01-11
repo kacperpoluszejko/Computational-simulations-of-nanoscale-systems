@@ -1,30 +1,28 @@
-# ⚛️ Komputerowe symulacje układów nano- i mezoskopowych
+# ⚛️ Computer Simulations of Nano- and Mesoscopic Systems
 
-To repozytorium zawiera zestaw programów i analiz związanych z symulacjami układów nanoskopowych, realizowanych w ramach studiów magisterskich na kierunku **Fizyka Techniczna** (specjalizacja: **Fizyka Komputerowa**).
-Projekty dotyczą problemów z zakresu mechaniki kwantowej - wszystkie polecenia jak i rozwiązania zapisane są więc w formaliźmie mechaniki kwantowej, 
-a większość z nich polega na numerycznym rozwiązywaniu równania Schrödingera. Pierwsze 5 z nich napisane zostało w czystym Pythonie, natomiast w pozostałych przypadkach skorzystano z pakietu [KWANT](https://kwant-project.org/)
+This repository contains a collection of programs and analyses related to simulations of nanoscale systems, developed as part of a Master’s degree program in **Technical Physics** (specialization: **Computational Physics**).
 
-Każdy projekt zawiera:
-- Szczegółową instrukcję do ćwiczenia wraz z literaturą uzupełniającą
-- Kod źródłowy symulacji
-- Skrypty do generowania wykresów
-- Gotowe rysunki / wizualizacje
-- Sprawozdanie w formacie PDF
+The projects address problems from the field of quantum mechanics — therefore, all assignments and solutions are formulated within the formalism of quantum mechanics, and most of them involve numerical solutions of the Schrödinger equation. The first five projects were written in pure Python, while the remaining ones make use of the [KWANT](https://kwant-project.org/) package.
+
+Each project includes:
+- A detailed exercise description with supplementary literature
+- Simulation source code
+- Scripts for generating plots
+- Ready-made figures / visualizations
+- A report in PDF format
 
 ---
 
- ## 📌 Tematy projektów 
- 
- 1. Jednoelektronowe widmo kropki kwantowej - metoda Galerkina
- 2. Wieloelektronowe widmo kropki kwantowej - metoda czasu urojonego, metoda Hartree-Focka
- 3. Symulacje zależne od czasu dla kropek kwantowych - metoda Crancka-Nicolsona oraz Askara-Cakmaka
- 4. Symulacje transportu elektronowego w układach 1D - metoda macierzy transferu, dioda RTD, kwantowy kontakt punktowy
- 5. Symulacje transportu elektronowego w układach 2D 
- 6. Transport elektronów w polu magnetycznym, kwantowy efekt Halla
- 7. Symulacje zależnego od spinu transportu elektronowego z uwzględnieniem oddziaływania spin-orbita
- 8. Symulacje transportu przez złącze metal/nadprzewodnik
- 9. Symulacje układów topologicznych
- 10. Transport w nanostrukturach opartych na grafenie
- 11. Oscylacje Klein'a w grafenie (dodatkowy projekt)
+## 📌 Project Topics
 
-
+1. Single-electron spectrum of a quantum dot – Galerkin method  
+2. Many-electron spectrum of a quantum dot – imaginary-time method, Hartree–Fock method  
+3. Time-dependent simulations of quantum dots – Crank–Nicolson and Askar–Cakmak methods  
+4. Electron transport simulations in 1D systems – transfer matrix method, RTD diode, quantum point contact  
+5. Electron transport simulations in 2D systems  
+6. Electron transport in a magnetic field, quantum Hall effect  
+7. Spin-dependent electron transport simulations including spin–orbit interaction  
+8. Transport simulations through a metal/superconductor junction  
+9. Simulations of topological systems  
+10. Transport in graphene-based nanostructures  
+11. Klein oscillations in graphene (additional project)
