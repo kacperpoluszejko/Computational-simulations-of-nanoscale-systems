@@ -2,7 +2,7 @@
 
 This repository contains a collection of programs and analyses related to simulations of nanoscale systems, developed as part of a Master’s degree program in **Technical Physics** (specialization: **Computational Physics**).
 
-The projects address problems from the field of quantum mechanics — therefore, all assignments and solutions are formulated within the formalism of quantum mechanics, and most of them involve numerical solutions of the Schrödinger equation. The first five projects were written in pure Python, while the remaining ones make use of the [KWANT](https://kwant-project.org/) package.
+The projects address problems from the field of quantum mechanics — therefore, all assignments and solutions are formulated within the formalism of quantum mechanics, and most of them involve numerical solutions of the Schrödinger equation. The first five projects were written in pure Python, while the remaining ones make use of the [KWANT](https://kwant-project.org/) package
 
 Each project includes:
 - A detailed exercise description with supplementary literature
